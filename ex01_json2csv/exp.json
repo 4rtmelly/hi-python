@@ -1,0 +1,22 @@
+{
+    "recette": [
+        {
+            "titre": "lasagne",
+            "difficulté": 1,
+            "ingredients": "pates"
+
+        },
+        {
+            "titre": "burger",
+            "difficulté": 1,
+            "ingredients": "buns"
+
+        },
+        {
+            "titre": "sushi",
+            "difficulté": 3,
+            "ingredients": "saumon"
+
+        }
+    ]
+}
